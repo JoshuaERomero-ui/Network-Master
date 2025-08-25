@@ -1,0 +1,2 @@
+Mon Aug 25 02:41:32 AM UTC 2025: my first journal
+Mon Aug 25 02:42:25 AM UTC 2025: this is my second note this text file uses a command from journal.sh to add notes into this text file
